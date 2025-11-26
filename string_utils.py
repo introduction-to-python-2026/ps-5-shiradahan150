@@ -1,4 +1,3 @@
-from sympy import solve as sympy_solve
 
 def split_before_each_uppercases(formula):
   if not formula:
